@@ -7,8 +7,7 @@ create posts, interact with others, and share media.
 
 ## 🌐 Live Demo
 
--   Frontend: https://your-frontend-link.vercel.app\
--   Backend: https://your-backend-link.onrender.com
+- Website: http://task-feed.vercel.app/
 
 ------------------------------------------------------------------------
 
